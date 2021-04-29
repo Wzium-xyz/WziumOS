@@ -1,4 +1,4 @@
 # WziumOS
 
 #### WziumOS to innowacyjny system operacyjny stworzony przez developerów Wzium. 
-#### Więcej informacji znajdziesz [tutaj](http://wzium.xyz/os/).
+#### Jest w ciąż w fazie rozwojowej i nie ma narazie możliwości jego pobrania.
